@@ -2,18 +2,20 @@
 2D Rogue-like game
 
 
-## Import Assets
+## Create a Player Prefab
 
-## Create Scene
+#### Import Assets
 
-## Create empty game object
+#### Create Scene
 
-## Selects and add Animation
+#### Create empty game object
 
-## Set Tags And Layer
+#### Selects and add Animation
 
-## Add RigidBody2D - Manage Movement
+#### Set Tags And Layer
+
+#### Add RigidBody2D - Manage Movement
  set bodytype kinematic
 
-## Add BoxCollider2D
+#### Add BoxCollider2D
  set box collider size 
