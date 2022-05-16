@@ -12,6 +12,7 @@
 #### 1. Create empty game object
 
 #### 2. Selects and add Animation to empty object and save inside ./assets/animations/animations
+ Create Idle , Attack , Chop
 
 #### 3. Copy Controller in  ./assets/animations/animatorController
 
