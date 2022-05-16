@@ -18,7 +18,7 @@
 
 #### 4. Set object Tags And Layer (Blockinglayer) 
 
-#### 5. Set sprite renderer SortingLayer 
+#### 5. Set sprite renderer SortingLayer (units) 
 
 #### 6. Add RigidBody2D component to Object - Manage Movement
  set bodytype kinematic
@@ -42,7 +42,7 @@
 
 #### 4. Overide with enemy 1 Controller
 
-#### 5. In enemy 2 Inspector change Animaator Controller to Enemy2
+#### 5. In enemy 2 Inspector change Animator Controller to Enemy2
 
 
 ## Save as Main in ./Assets/Scene
