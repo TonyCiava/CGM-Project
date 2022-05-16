@@ -38,9 +38,11 @@
 
 #### 2. Go to Animator State Diagram
 
-#### 3. Create Animator Override Controller (right click on Animations/AnimatorController and create Override Controller)
+#### 3. Create Animator Override Controller (right click on ./Assets/Animations/AnimatorController and create Override Controller)
 
 #### 4. Overide with enemy 1 Controller
 
 #### 5. In enemy 2 Inspector change Animaator Controller to Enemy2
 
+
+## Save as Main in ./Assets/Scene
