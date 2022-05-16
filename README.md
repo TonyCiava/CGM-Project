@@ -15,10 +15,31 @@
 
 #### 3. Copy Controller in  ./assets/animations/animatorController
 
-#### 4. Set object Tags And Layer
+#### 4. Set object Tags And Layer (Blockinglayer) 
 
-#### 5. Add RigidBody2D component to Object - Manage Movement
+#### 5. Set sprite renderer SortingLayer 
+
+#### 6. Add RigidBody2D component to Object - Manage Movement
  set bodytype kinematic
 
-#### 6. Add BoxCollider2D component to Object
+#### 7. Add BoxCollider2D component to Object
  set box collider size 
+
+#### 8. Create Prefab
+
+## Create a Enemy Prefab
+
+#### 1. Same
+
+## Create a Enemy 2 Prefab
+
+#### 1. Copy Enemy 1 Object
+
+#### 2. Go to Animator State Diagram
+
+#### 3. Create Animator Override Controller (right click on Animations/AnimatorController and create Override Controller)
+
+#### 4. Overide with enemy 1 Controller
+
+#### 5. In enemy 2 Inspector change Animaator Controller to Enemy2
+
