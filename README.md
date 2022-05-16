@@ -1,21 +1,24 @@
 # CGM-Project
 2D Rogue-like game
 
+## Import Assets
+
+## Create Scene
 
 ## Create a Player Prefab
 
-#### Import Assets
 
-#### Create Scene
 
-#### Create empty game object
+#### 1. Create empty game object
 
-#### Selects and add Animation
+#### 2. Selects and add Animation to empty object and save inside ./assets/animations/animations
 
-#### Set Tags And Layer
+#### 3. Copy Controller in  ./assets/animations/animatorController
 
-#### Add RigidBody2D - Manage Movement
+#### 4. Set object Tags And Layer
+
+#### 5. Add RigidBody2D component to Object - Manage Movement
  set bodytype kinematic
 
-#### Add BoxCollider2D
+#### 6. Add BoxCollider2D component to Object
  set box collider size 
